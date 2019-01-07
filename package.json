@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "consola": "^2.3.1",
+    "delay": "^4.1.0",
+    "fs-extra": "^7.0.1",
+    "joi": "^14.3.1",
+    "node-notifier": "^5.3.0",
+    "open": "^0.0.5"
+  },
+  "devDependencies": {
+    "nexe": "^2.0.0-rc.34"
+  }
+}
